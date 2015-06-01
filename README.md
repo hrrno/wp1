@@ -1,7 +1,15 @@
 # HRR Work Package One
 On this site you can find tools, documents, and issues for the Health Registries for Research (HRR) Work Package one (WP1).
 
-## Work Package Goals
+
+## Resources
+
+Use the [HRR WP1 project Wiki](https://github.com/hrrno/wp1/wiki) for detailed project information and discussions.
+
+The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active issues, feature requests, and status for individual tasks.
+
+
+## WP1 Goals
 
 | Establish a:  |
 | :------------|
@@ -13,7 +21,7 @@ On this site you can find tools, documents, and issues for the Health Registries
 ## WP1 Deliverables
 
 | Deliverable  | Resource  | Status |
-| :------------ |:---------------:| -----:|
+| :------------ | ---------------:| -----:|
 | 1. Improved data quality and data documentation reports for NIPH registries      |  | |
 | 2. ICD6-10 harmonization |  | |
 | 3. Registry metadata available to researchers | | |

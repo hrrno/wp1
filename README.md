@@ -11,9 +11,9 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 ## WP1 Goals
 
-| Establish a:  |
+| Establish a: |
 | :------------|
-| Network for exchange and updating of technical documentation among the central health registries |
+| Network for the exchange and curation of technical documentation across the central health registries |
 | Repository for updating and sharing registry documenation |
 | User friendly technical information system for register researchers  |
 
@@ -22,11 +22,11 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 | Deliverable  | Resource  | Status |
 | :------------ | ---------------:| :-----:|
-| 1. Improved data quality and data documentation reports for NIPH registries      |  | dev |
+| 1. Improved data quality and data documentation reports for NIPH registries |  | dev & planning |
 | 2. Code harmonization: ICD6-10 and registry | | analysis |
 | 3. Registry metadata available to researchers | [web](http://hrrno.github.io/metadata/), [repo](https://github.com/hrrno/metadata/) | dev |
 | 4. Secure remote logon  | | analysis |
-| 5. Online research file ordering system | | analysis |
+| 5. Online research file ordering system | | dev |
 | 6. Online data analysis for researchers pilot | | analysis |
 | 7. Data security protocols for NIPH registries | |  dev |
 | 8. Data registry linkage protocols | | analysis |
@@ -73,6 +73,7 @@ MetaData repository: https://github.com/hrrno/metadata
 
 #### 5: Online research file ordering system
 
+* An online prototype interface for MFR has been constructed and is undergoing refinement
 * Metadata from the registers will be used to generate specific data access requests
 * Tooling will be constructed so to maximize ease of integration in related projects
 
@@ -93,6 +94,8 @@ MetaData repository: https://github.com/hrrno/metadata
 #### 8: Data registry linkage protocols
 
 * Tooling has been constructed to allow linkage across pseudonymized registers
+* A key interface has been defined in mMFR allowing unified identity operations on central regitries
+  * pseudonymized identities can be retroavticely applied to pre-existing registries
 
 
 

@@ -24,7 +24,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 | :------------ | ---------------:| -----:|
 | 1. Improved data quality and data documentation reports for NIPH registries      |  | |
 | 2. ICD6-10 harmonization |  | |
-| 3. Registry metadata available to researchers | | |
+| 3. Registry metadata available to researchers | [web](http://hrrno.github.io/metadata/), [repo](https://github.com/hrrno/metadata/) | |
 | 4. Secure remote logon and analysis | | |
 | 5. Online research file ordering system | | |
 | 6. Online data analysis for researchers pilot | | |

@@ -56,11 +56,11 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 #### 3: Registry MetaData available
 
-Local installation and browser: [install-metadata-webserver.fsx](https://github.com/hrrno/datamunger/blob/develop/Munger/Scripts/install-metadata-webserver.fsx)
 
-Project website: http://hrrno.github.io/metadata/
+* Project website: http://hrrno.github.io/metadata/
+* MetaData repository: https://github.com/hrrno/metadata
+* Install the repository and its self-contained web server:  [install-metadata-webserver.fsx](https://github.com/hrrno/datamunger/blob/develop/Munger/Scripts/install-metadata-webserver.fsx)
 
-MetaData repository: https://github.com/hrrno/metadata
 
 
 
@@ -71,11 +71,13 @@ MetaData repository: https://github.com/hrrno/metadata
 * International federated logons are in the goals of the Tryggve project
 * Our computing partners will likely dictate our logon selection
 
+
 #### 5: Online research file ordering system
 
 * An online prototype interface for MFR has been constructed and is undergoing refinement
 * Metadata from the registers will be used to generate specific data access requests
-* Tooling will be constructed so to maximize ease of integration in related projects
+* Tooling will be constructed so to maximize ease of integration in partner projects
+
 
 #### 6: Online data analysis for researchers pilot
 
@@ -84,15 +86,20 @@ MetaData repository: https://github.com/hrrno/metadata
 * TSD supports [Galaxy](https://galaxyproject.org/)
 * Focusing on analysis tool integration and platform management should give us a best-of-breed experience while leveraging established ecosystems and toolchains
 
+
 #### 7: Data security protocols for NIPH registries
 
 * Pseudonymization, as a information security best practice, has been incorporated into the design of the mMFR
-* At-rest and in-transit data security will be reconsidered
-* The secure [PIPE](http://academypublisher.com/jsw/vol03/no02/jsw03022332.pdf) model will be used as a data sharing model that supports privacy by design
+* At-rest and in-transit data security will see marginal improvements
+* The secure [PIPE](http://academypublisher.com/jsw/vol03/no02/jsw03022332.pdf) model will be used as a data sharing and security model that supports privacy by design
+  * Explicitly shared data subsets, multi-party consent, and shared cryptographic key management
+  * A threshold scheme will be applied to data-sharing partners for key and data recoverability
+  * Support for cross-register re-identification of data under strictly controlled conditions
 * Retroactive data operations to protect data post-release are being considered
 
 #### 8: Data registry linkage protocols
 
+* Analysis of the architecture and solutions of industry leaders has been carried out 
 * Tooling has been constructed to allow linkage across pseudonymized registers
 * A key interface has been defined in mMFR allowing unified identity operations on central regitries
   * pseudonymized identities can be retroavticely applied to pre-existing registries

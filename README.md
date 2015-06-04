@@ -36,9 +36,9 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 #### 1: Improved data quality and data documentation reports
 
-* Collaborating with mMFR on editing, storage, and retrieval
+* Collaborating with mMFR on documentation editing, storage, and retrieval
 * Will investigate synergies with DIP (fall 2015)
-* Document processing 
+* Document processing strategies (via templates or controls), and online editing will be favored
 
 
 #### 2: Code harmonization
@@ -56,12 +56,15 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 #### 3: Registry MetaData available
 
+* International standards for metadata publishing identified
+  * Dublin core, DIF, Norstore, Metadata repo format, etc 
+* (Norstore)[https://www.norstore.no/services/archive]'s metadata format applied to the MFRs definition
+* Structural information used to generate [baseline creation scripts](https://github.com/hrrno/metadata/tree/master/registries/mfr/data/structure)
 
 * Project website: http://hrrno.github.io/metadata/
 * MetaData repository: https://github.com/hrrno/metadata
+
 * Install the repository and its self-contained web server:  [install-metadata-webserver.fsx](https://github.com/hrrno/datamunger/blob/develop/Munger/Scripts/install-metadata-webserver.fsx)
-
-
 
 
 #### 4: Secure remote logon
@@ -75,7 +78,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 #### 5: Online research file ordering system
 
 * An online prototype interface for MFR has been constructed and is undergoing refinement
-* Metadata from the registers will be used to generate specific data access requests
+* Metadata from the registers will be used to generate data access requests
 * Tooling will be constructed so to maximize ease of integration in partner projects
 
 
@@ -96,6 +99,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
   * A threshold scheme will be applied to data-sharing partners for key and data recoverability
   * Support for cross-register re-identification of data under strictly controlled conditions
 * Retroactive data operations to protect data post-release are being considered
+
 
 #### 8: Data registry linkage protocols
 

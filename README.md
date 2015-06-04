@@ -56,14 +56,14 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 #### 3: Registry MetaData available
 
-* International standards for metadata publishing identified
-  * Dublin core, DIF, Norstore, Metadata repo format, etc 
+
 * (Norstore)[https://www.norstore.no/services/archive]'s metadata format applied to the MFRs definition
 * Structural information used to generate [baseline creation scripts](https://github.com/hrrno/metadata/tree/master/registries/mfr/data/structure)
+* International standards for metadata publishing identified
+  * Dublin core, DIF, Norstore, Metadata repo format, etc 
 
 * Project website: http://hrrno.github.io/metadata/
 * MetaData repository: https://github.com/hrrno/metadata
-
 * Install the repository and its self-contained web server:  [install-metadata-webserver.fsx](https://github.com/hrrno/datamunger/blob/develop/Munger/Scripts/install-metadata-webserver.fsx)
 
 

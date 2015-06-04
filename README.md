@@ -64,7 +64,6 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 * Project website: http://hrrno.github.io/metadata
 * MetaData repository: https://github.com/hrrno/metadata
-* 
 * Install the repository and its self-contained web server:  [install-metadata-webserver.fsx](https://github.com/hrrno/datamunger/blob/develop/Munger/Scripts/install-metadata-webserver.fsx)
 
 

@@ -60,7 +60,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 * [Norstore](https://www.norstore.no/services/archive) 's metadata format applied to the MFRs definition
 * Structural information used to generate [baseline creation scripts](https://github.com/hrrno/metadata/tree/master/registries/mfr/data/structure)
 * International standards for metadata publishing identified
-  * Dublin core, DIF, Norstore, Metadata repo format, etc
+  * Dublin core ([ISO 15836](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52142)), Directory Interchange Format ('DIF' [ISO 19115](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=53798)), Norstore, Health Informatics Clinical Metadata ([ISO 13119](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52951)), Metadata Registry Standard ('MDR', [ISO 11179](http://en.wikipedia.org/wiki/ISO/IEC_11179))
 * Project website: http://hrrno.github.io/metadata
 * MetaData repository: https://github.com/hrrno/metadata
 * Install the repository and its self-contained web server: [install-metadata-webserver.fsx](https://github.com/hrrno/datamunger/blob/develop/Munger/Scripts/install-metadata-webserver.fsx)

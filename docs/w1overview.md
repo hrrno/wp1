@@ -11,12 +11,14 @@
 ## Overview
 
 | End user  | Goal  | Location | # |
-| :------------ | :--------------- | -----:| ----:|
+| :------------ | :--------------- | :----- | ----:|
 | NIPH Metadata Manager | Create variable & data quality documentation | Metadata Management | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
-| Researcher | Read variable & data quality documentation | Tech Info System & Metadata Repo | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| EUTRO | Retrieve variable documentation | Metadata Repository & Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| Researcher | Harmonized coding systems | Tech Info System, Tools & Methodology Repo | 2  |
-
+| Researcher | Read variable & data quality documentation | Tech Info System, Metadata Repo | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| EUTRO | Retrieve variable documentation | Metadata Repository, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | Harmonized coding systems | Tech Info System, Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
+| EUTRO | Retrieve variable documentation | Metadata Repository, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | Access register metadata | Metadata Repository, EUTRO, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | Secure online analyssisss | Metadata Repository & Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 
 ## Target End User
 

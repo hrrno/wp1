@@ -3,10 +3,10 @@
 **Table of Contents** 
 
 - [HRR WP1 Functional Overview](#hrrwp1functionaloverview)
-    - [Overview](#overview)
-    - [Target End User](#targetenduser)
-    - [Deliverables](#deliverables)
-    - [Locations](#locations)
+  - [Overview](#overview)
+  - [Target End User](#target-end-user)
+  - [Deliverables](#deliverables)
+  - [Locations](#locations)
 
 ## Overview
 

@@ -4,7 +4,7 @@
 
 - [HRR WP1 Functional Overview](#)
 	- [Target End User](#)
-      - [Researcher](#)
+      - [Researcher](#Researcher)
 			- [NIPH Data Delivery](#)
 			- [NIPH Metadata Manager](#)
 			- [External Metadata Manager](#)

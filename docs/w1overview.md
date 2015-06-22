@@ -12,10 +12,10 @@
 
 | End user  | Goal  | Location | # |
 | :------------ | :--------------- | -----:| ----:|
-| NIPH Metadata Manager | Variable registration & data quality | Metadata Registration | 1 |
-| Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
-| Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
-| Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
+| NIPH Metadata Manager | Create variable & data quality documentation | Metadata Management | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
+| Researcher | Read variable & data quality documentation | Tech Info System & Metadata Repo | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| EUTRO | Retrieve variable documentation | Metadata Repository & Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | Harmonized coding systems | Tech Info System, Tools & Methodology Repo | 2  |
 
 
 ## Target End User
@@ -57,7 +57,7 @@
 ## Locations
 
 
-#### Metadata Registration
+#### Metadata Management
 
 #### Technical Information System
 

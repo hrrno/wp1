@@ -12,7 +12,7 @@
 
 | End user  | Goal  | Location | # |
 | :------------ | :--------------- | -----:| ----:|
-| Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
+| NIPH Metadata Manager | Variable registration & data quality | Metadata Registration | 1 |
 | Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
 | Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
 | Researcher | Code harmony | Tech Info System, Tools & methodology repo | 2  |
@@ -21,6 +21,8 @@
 ## Target End User
 
 #### Researcher
+
+#### Researcher with Data
 
 #### NIPH Data Delivery
 
@@ -32,6 +34,9 @@
 
 #### EUTRO
 
+#### Archive
+
+#### Clinician
 
 
 ## Deliverables
@@ -51,6 +56,8 @@
 
 ## Locations
 
+
+#### Metadata Registration
 
 #### Technical Information System
 

@@ -2,34 +2,11 @@
 
 **Table of Contents** 
 
-- [HRR WP1 Functional Overview](#)
-	- [Target End User](#)
-      - [Researcher](#Researcher)
-			- [NIPH Data Delivery](#)
-			- [NIPH Metadata Manager](#)
-			- [External Metadata Manager](#)
-			- [External Data Dlivery](#)
-			- [EUTRO](#)
-	- [Deliverables](#)
-      - [#1: Improved data quality and data documentation reports for NIPH registries](#)
-      - [#2: Code harmonization: ICD6-10 and registry](#)
-      - [#3: Registry metadata available to researchers](#)
-      - [#4: Secure remote logon](#)
-      - [#5: Online research file ordering system](#)
-			- [#6: Online data analysis for researchers pilot](#)
-			- [#7: Data security protocols for NIPH registries](#)
-			- [#8: Data registry linkage protocols](#)
-			- [#9: Expand data quality and data documentation to all central registries](#)
-			- [#10: Common protocols for validation studies](#)
-	- [Where](#)
-			- [Technical Information System](#)
-			- [Metadata repository](#)
-			- [Tools and methodology repository](#)
-			- [Integration](#)
-			- [Service](#)
-			- [EUTRO](#)
-			- [TSD](#)
-			- [Private Cloud](#)
+- [HRR WP1 Functional Overview](#hrrwp1functionaloverview)
+    - [Overview](#overview)
+    - [Target End User](#targetenduser)
+    - [Deliverables](#deliverables)
+    - [Locations](#locations)
 
 ## Overview
 
@@ -72,7 +49,7 @@
 #### #10: Common protocols for validation studies
 
 
-## Where
+## Locations
 
 
 #### Technical Information System

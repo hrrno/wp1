@@ -39,6 +39,7 @@ Any qualified researcher satisfying the requirements to handle register data.  T
 
   - Access and read registry metadata online
   - Access and read data quality reports online
+    - the reports should show the incidence/frequency of variables to improve their utility
   - Order access to research files online
     - from multiple registries
   - Track the status of their data application

@@ -13,22 +13,22 @@
 
 | End user  | Goal  | Location | # |
 | :------------ | :--------------- | :----- | ----:|
-| NIPH Metadata Manager | Create variable & data quality documentation | Metadata Management | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
-| External Metadata Manager | Create variable & data quality documentation | ?, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
-| Researcher | Read variable & data quality documentation | Tech Info System, Metadata Repository | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| EUTRO | Retrieve variable documentation | Metadata Repository, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| Researcher | Access register metadata | Metadata Repository, EUTRO, Tech Info System | [3](#3-registry-metadata-available-to-researchers)  |
-| EUTRO | Access NIPH Metadata online | Metadata Repository | [3](#3-registry-metadata-available-to-researchers)  |
-| NIPH Data Delivery | Adhere to Data Security & Linkage protocols | DIP(?), FHI Internal | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
-| External Data Delivery | Adhere to Data Security & Linkage protocols | ?, Internal Integration | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
-| NIPH Data Delivery | Link register data | FHI Internal, Internal Integration, Service | [8](#8-data-registry-linkage-protocols) |
-| External Data Delivery | Link register data | FHI Internal, Internal Integration, Service | [8](#8-data-registry-linkage-protocols)  |
-| Researcher | Order research file online | EUTRO (?), fhi.no, Registries, Tech Info System | [5](#5-online-research-file-ordering-system)  |
-| NIPH Data Delivery | Process online file order | DIP(?), FHI Internal | [5](#5-online-research-file-ordering-system)  |
-| Researcher with Data | Analyze data remotely through secure connection | TSD, RAIRD, Private Clouds | [4](#4-secure-remote-logon),  [5](#5-online-research-file-ordering-system)  |
-| Researcher with Data  | Access harmonized coding systems | Tech Info System, Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
-| Archive (Norstore, NSD, EUTRO) | Adhere to Data Security protocols | Input formats & Data | [7](#7-data-security-protocols-for-niph-registries)  |
-| Clinician | Carry out validation study | Service (?) | [10](#10-common-protocols-for-validation-studies)  |
+| [NIPH Metadata Manager](#niph-metadata-manager) | Create variable & data quality documentation | [Metadata Management](#metadata-management) | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
+| [External Metadata Manager](#external-metadata-manager) | Create variable & data quality documentation | ?, [Internal Integration](#internal-integration), [Service](#service) | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
+| [Researcher](#researcher) | Read variable & data quality documentation | [Tech Info System](#technical-information-system), [Metadata Repository](#metadata-repository) | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| [EUTRO](#eutro) | Retrieve variable documentation | [Metadata Repository](#metadata-repository), [Tech Info System](#technical-information-system) | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| [Researcher](#researcher) | Access register metadata | [Metadata Repository](#metadata-repository), [EUTRO](#eutro-1), [Tech Info System](#technical-information-system) | [3](#3-registry-metadata-available-to-researchers)  |
+| [EUTRO](#eutro) | Access NIPH Metadata online | [Metadata Repository](#metadata-repository) | [3](#3-registry-metadata-available-to-researchers)  |
+| [NIPH Data Delivery](#niph-data-delivery) | Adhere to Data Security & Linkage protocols | [DIP](#dip)(?), [FHI Internal](#fhi-internal) | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
+| [External Data Delivery](#external-data-dlivery) | Adhere to Data Security & Linkage protocols | ?, [Internal Integration](#internal-integration) | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
+| [NIPH Data Delivery](#niph-data-delivery) | Link register data | [FHI Internal](#fhi-internal), [Internal Integration](#internal-integration), [Service](#service) | [8](#8-data-registry-linkage-protocols) |
+| [External Data Delivery](#external-data-dlivery) | Link register data | [FHI Internal](#fhi-internal), [Internal Integration](#internal-integration), [Service](#service) | [8](#8-data-registry-linkage-protocols)  |
+| [Researcher](#researcher) | Order research file online | [EUTRO](#eutro-1) (?), fhi.no, Registries, [Tech Info System](#technical-information-system) | [5](#5-online-research-file-ordering-system)  |
+| [NIPH Data Delivery](#niph-data-delivery) | Process online file order | [DIP](#dip)(?), [FHI Internal](#fhi-internal) | [5](#5-online-research-file-ordering-system)  |
+| [Researcher with Data](#researcher-with-data) | Analyze data remotely through secure connection | [TSD](#tsd), RAIRD, [Private Cloud](#private-cloud) | [4](#4-secure-remote-logon),  [5](#5-online-research-file-ordering-system)  |
+| [Researcher with Data](#researcher-with-data)  | Access harmonized coding systems | [Tech Info System](#technical-information-system), Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
+| [Archive](#archive) (Norstore, NSD, [EUTRO](#eutro)) | Adhere to Data Security protocols | Input formats & Data | [7](#7-data-security-protocols-for-niph-registries)  |
+| [Clinician](#clinician) | Carry out validation study | [Service](#service) (?) | [10](#10-common-protocols-for-validation-studies)  |
 
 
 ## Target End User
@@ -87,7 +87,6 @@ This system may come in whole or in part from the DIP project, from recent inves
 A user friendly system for register researchers tying together resources from the HRR work packages.
 
 
-
 #### Metadata repository
 
 An online repository holding structural, content, dataset, and variable metadata for the registers.  Avaiable for use by all partners and in multiple, complementary, formats.
@@ -96,7 +95,15 @@ An online repository holding structural, content, dataset, and variable metadata
 
 An online resource sharing point for specific tools and methodological knowledge sharing to improve the user experience of working with register data and foster the surrounding research community. 
 
-#### Integration
+#### FHI Internal
+
+An internal-facing site/installation available to FHI employees.
+
+#### DIP
+
+Internal FHI project to address the needs of our data delivery operations.
+
+#### Internal Integration
 
 An integration with pre-existing systems inside the users environment.  This may involve installation and maintenance of custom software, but should integrate well into pre-existing routines and not require "yet another" site for end users.
 

@@ -24,8 +24,8 @@
 | External Data Delivery | Link register data | FHI Internal, Internal Integration, Service | [8](#8-data-registry-linkage-protocols)  |
 | Researcher | Order research file online | EUTRO (?), fhi.no, Registries, Tech Info System | [5](#5-online-research-file-ordering-system)  |
 | NIPH Data Delivery | Process online file order | DIP(?), FHI Internal | [5](#5-online-research-file-ordering-system)  |
-| Researcher | Analyze data remotely through secure connection | TSD, RAIRD, Private Clouds | [4](#4-secure-remote-logon),  [5](#5-online-research-file-ordering-system)  |
-| Researcher | Access harmonized coding systems | Tech Info System, Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
+| Researcher with Data | Analyze data remotely through secure connection | TSD, RAIRD, Private Clouds | [4](#4-secure-remote-logon),  [5](#5-online-research-file-ordering-system)  |
+| Researcherwith Data  | Access harmonized coding systems | Tech Info System, Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
 | Archive (Norstore, NSD, EUTRO) | Adhere to Data Security protocols | Input formats & Data | [7](#7-data-security-protocols-for-niph-registries)  |
 | Clinician | Carry out validation study | Service (?) | [10](#10-common-protocols-for-validation-studies)  |
 

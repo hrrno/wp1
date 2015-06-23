@@ -80,7 +80,7 @@ Health registry employee responsible for generating, and curating registry metad
   
 #### NIPH Data Delivery
 
-NPIH employee resopnsible for delivering data to researchers and other registers, able to:
+NIPH employee resopnsible for delivering data to researchers and other registers, able to:
 
   - Approve/reject data access applications
   - Approve/reject access to individual variables in an application

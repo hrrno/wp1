@@ -26,7 +26,7 @@
 | [Researcher](#researcher) | Order research file online | [EUTRO](#eutro-1) (?), fhi.no, Registries, [Tech Info System](#technical-information-system) | [5](#5-online-research-file-ordering-system)  |
 | [NIPH Data Delivery](#niph-data-delivery) | Process online file order | [DIP](#dip)(?), [FHI Internal](#fhi-internal) | [5](#5-online-research-file-ordering-system)  |
 | [Researcher with Data](#researcher-with-data) | Analyze data remotely through secure connection | [TSD](#tsd), RAIRD, [Private Cloud](#private-cloud) | [4](#4-secure-remote-logon),  [5](#5-online-research-file-ordering-system)  |
-| [Researcher with Data](#researcher-with-data)  | Access harmonized coding systems | [Tech Info System](#technical-information-system), Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
+| [Researcher with Data](#researcher-with-data)  | Access harmonized coding systems | [Tech Info System](#technical-information-system), [Tools & Methodology Repository](#tools-and-methodology-repository) | [2](#2-code-harmonization-icd6-10-and-registry)  |
 | [Archive](#archive) (Norstore, NSD, [EUTRO](#eutro)) | Adhere to Data Security protocols | Input formats & Data | [7](#7-data-security-protocols-for-niph-registries)  |
 | [Clinician](#clinician) | Carry out validation study | [Service](#service) (?) | [10](#10-common-protocols-for-validation-studies)  |
 
@@ -57,20 +57,81 @@ After recieving data via HRR infrastructure, a researcher with data will be able
   - Archive their data set for reproduction and verification
     - with individual identifiers stripped and/or 'managed' for long-term storage
 
-#### NIPH Data Delivery
 
 #### NIPH Metadata Manager
 
+Health registry employee at NIPH responsible for generating, and curating registry metadata. Should be able to:
+
+  - Create documentation on variables
+  - Detail the 'data quality' of variables and the registry data collection 
+  - Add and remove variables
+  - Retrieve historic information on variables
+  
+
 #### External Metadata Manager
 
-#### External Data Dlivery
+Health registry employee responsible for generating, and curating registry metadata.  Should be able to:
+
+  - Create documentation on variables
+  - Detail the 'data quality' of variables and the registry data collection 
+  - Add and remove variables
+  - Retrieve historic information on variables
+  
+#### NIPH Data Delivery
+
+NPIH employee resopnsible for delivering data to researchers and other registers, able to:
+
+  - Approve/reject data access applications
+  - Approve/reject access to individual variables in an application
+  - Revoke access to variables due to new re-identification techniques
+  - Join data access registers without being exposed to identifying information
+  - Participate in cumulative linking without being exposed to indentifying information
+  - Join pseudonymized data sources to one another without being exposed to indentifying information
+
+
+#### External Data Delivery
+
+Health registry employee resopnsible for delivering data to researchers and other registers, able to:
+
+  - Approve/reject data access applications
+  - Approve/reject access to individual variables in an application
+  - Revoke access to variables due to new re-identification techniques
+  - Join data access registers without being exposed to identifying information
+  - Participate in cumulative linking without being exposed to indentifying information
+  - Join pseudonymized data sources to one another without being exposed to indentifying information
+  
 
 #### EUTRO
 
+An HRR partner supporting large facets of the research process, they should be able to:
+
+  - Access NIPH metadata online
+    - in a system friendly manner
+  - Access NIPH data quality documentation online
+  - Recieve updates to metadata in a 'frictionless' manner 
+  
+
 #### Archive
+
+The long term storage solutions for exported data, needs to be able to:
+
+  - Execute data management plans in line with international standards
+  - Recieve pseudonymized data sets with accurate metadata
+    - authorship metadata
+    - dataset metadata
+    - variable documentation 
+  - Support post-facto operations to protect privacy in a long-term preservation context
+    - Deletion, redaction, unpublishing, and re-anonymization 
+    - Share long-term identity preservation with publishers to support digital permenence and strict privacy concerns
+
 
 #### Clinician
 
+A doctor with direct patient contact involved in research, should be able to:
+
+  - Participate in a validation study 
+    - based on common protocols
+    - using medical quality registries (?)
 
 
 ## Locations

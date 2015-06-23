@@ -15,16 +15,20 @@
 | NIPH Metadata Manager | Create variable & data quality documentation | Metadata Management | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
 | Researcher | Read variable & data quality documentation | Tech Info System, Metadata Repo | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | EUTRO | Retrieve variable documentation | Metadata Repository, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| Researcher | Harmonized coding systems | Tech Info System, Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
-| EUTRO | Retrieve variable documentation | Metadata Repository, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | Access harmonized coding systems | Tech Info System, Tools & Methodology Repo | [2](#2-code-harmonization-icd6-10-and-registry)  |
+| EUTRO | Access NIPH Metadata online | Metadata Repository | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | Researcher | Access register metadata | Metadata Repository, EUTRO, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| Researcher | Online file ordering | EUTRO (?), fhi.no, Registries, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | ORder research file online | EUTRO (?), fhi.no, Registries, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | NIPH Data Delivery | Process online file order | DIP(?), FHI Internal | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| Researcher | Secure remote analysis | TSD, RAIRD, Private Clouds | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| NIPH Data Delivery | Data Security & Blind Linkage | DIP(?), FHI Internal | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| External Data Dlivery | Data Security & Blind Linkage | ?, Internal Integration | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| Archive (Norstore, NSD, EUTRO) | Data Security & Linkage Protocols | Input formats & Data | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-
+| Researcher | Analyze data remotely through secure connection | TSD, RAIRD, Private Clouds | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| NIPH Data Delivery | Adhere to Data Security & Linkage protocols | DIP(?), FHI Internal | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| External Data Dlivery | Adhere to Data Security & Linkage protocols | ?, Internal Integration | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Archive (Norstore, NSD, EUTRO) | Adhere to Data Security protocols | Input formats & Data | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| NIPH Data Delivery | Link register data | FHI Internal, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| External Data Delivery | Link register data | FHI Internal, Internal Integration, Service |
+[1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| External Metadata Manager | Create variable & data quality documentation | ?, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Clinician | Carry out validation study | Service (?) | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 
 
 ## Target End User

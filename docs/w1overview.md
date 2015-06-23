@@ -20,9 +20,9 @@
 | [Researcher](#researcher) | Access register metadata | [Metadata Repository](#metadata-repository), [EUTRO](#eutro-1), [Tech Info System](#technical-information-system) | [3](#3-registry-metadata-available-to-researchers)  |
 | [EUTRO](#eutro) | Access NIPH Metadata online | [Metadata Repository](#metadata-repository) | [3](#3-registry-metadata-available-to-researchers)  |
 | [NIPH Data Delivery](#niph-data-delivery) | Adhere to Data Security & Linkage protocols | [DIP](#dip)(?), [FHI Internal](#fhi-internal) | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
-| [External Data Delivery](#external-data-dlivery) | Adhere to Data Security & Linkage protocols | ?, [Internal Integration](#internal-integration) | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
+| [External Data Delivery](#external-data-delivery) | Adhere to Data Security & Linkage protocols | ?, [Internal Integration](#internal-integration) | [7](#7-data-security-protocols-for-niph-registries), [8](#8-data-registry-linkage-protocols)  |
 | [NIPH Data Delivery](#niph-data-delivery) | Link register data | [FHI Internal](#fhi-internal), [Internal Integration](#internal-integration), [Service](#service) | [8](#8-data-registry-linkage-protocols) |
-| [External Data Delivery](#external-data-dlivery) | Link register data | [FHI Internal](#fhi-internal), [Internal Integration](#internal-integration), [Service](#service) | [8](#8-data-registry-linkage-protocols)  |
+| [External Data Delivery](#external-data-delivery) | Link register data | [FHI Internal](#fhi-internal), [Internal Integration](#internal-integration), [Service](#service) | [8](#8-data-registry-linkage-protocols)  |
 | [Researcher](#researcher) | Order research file online | [EUTRO](#eutro-1) (?), fhi.no, Registries, [Tech Info System](#technical-information-system) | [5](#5-online-research-file-ordering-system)  |
 | [NIPH Data Delivery](#niph-data-delivery) | Process online file order | [DIP](#dip)(?), [FHI Internal](#fhi-internal) | [5](#5-online-research-file-ordering-system)  |
 | [Researcher with Data](#researcher-with-data) | Analyze data remotely through secure connection | [TSD](#tsd), RAIRD, [Private Cloud](#private-cloud) | [4](#4-secure-remote-logon),  [5](#5-online-research-file-ordering-system)  |

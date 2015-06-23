@@ -54,9 +54,12 @@ After recieving data via HRR infrastructure, a researcher with data will be able
   - Analyze that data online using tooling available in their project area
     - using research portals and toolchains ecosystems like Galaxy
     - using tools shared through tooling repository
-    - with methodology suport from the methodology repository
+    - with methodology support from the methodology repository
   - Archive their data set for reproduction and verification
     - with individual identifiers stripped and/or 'managed' for long-term storage
+    - with long term data management rights established with the data store
+  - Query medical codes across generations of data on harmonized coding standards
+    - using a probabilistic mapping created through historic MFR data
 
 
 #### NIPH Metadata Manager

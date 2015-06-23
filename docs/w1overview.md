@@ -15,7 +15,7 @@
 | :------------ | :--------------- | :----- | ----:|
 | NIPH Metadata Manager | Create variable & data quality documentation | Metadata Management | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
 | External Metadata Manager | Create variable & data quality documentation | ?, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
-| Researcher | Read variable & data quality documentation | Tech Info System, Metadata Repo | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| Researcher | Read variable & data quality documentation | Tech Info System, Metadata Repository | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | EUTRO | Retrieve variable documentation | Metadata Repository, Tech Info System | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | Researcher | Access register metadata | Metadata Repository, EUTRO, Tech Info System | [3](#3-registry-metadata-available-to-researchers)  |
 | EUTRO | Access NIPH Metadata online | Metadata Repository | [3](#3-registry-metadata-available-to-researchers)  |
@@ -37,9 +37,11 @@
 
 Any qualified researcher satisfying the requirements to handle register data.  They will be able to:
 
+  - Access and read registry metadata online
+  - Access and read data quality reports online
   - Order access to research files online
-    - Multiple registers
-    - 
+    - from multiple registries
+  - Track the status of their data application
 
 
 #### Researcher with Data

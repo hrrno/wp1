@@ -189,12 +189,42 @@ Cloud resources operated by the individual researcher either directly, or throug
 
 
 #### #1: Improved data quality and data documentation reports for NIPH registries
+
+Documentation to be created through the [Metadata Management](#metadata-management) system, documentation to be displayed through the [Technical Information System](#technical-information-system)
+
 #### #2: Code harmonization: ICD6-10 and registry
+
+An attempt at code harmonization, avaiable as a seperate service, or individual published work.
+The harmonization may become its own research project...
+
 #### #3: Registry metadata available to researchers
+
+Collected and generated metadata will be presented in the [Technical Information System](#technical-information-system), EUTRO, and directly available from the [Metadata Repository](#metadata-repository).
+
 #### #4: Secure remote logon
+
+Logon to a secure facility, through FIEDE.
+
 #### #5: Online research file ordering system
+
+Order access to files from multiple registries.  This service may be hosted on individual regitry sites, a common portal, the [Technical Information System](#technical-information-system), or perhaps integrated with EUTRO or another partner facility.
+
 #### #6: Online data analysis for researchers pilot
+
+Access to a secure computing resources and analysis tools.  Multiple research gateways could be relevant, tools and data from HRR should be available inside them.
+
 #### #7: Data security protocols for NIPH registries
+
+Protocols governing the data security for the NIPH registries on the HRR infrastructure.  Best-of-breed solutions require pure pseudonymized operations and consistent data operations.  Information security, PIPE, and our concession framework will cooperate to ensure provable data security. 
+
 #### #8: Data registry linkage protocols
+
+Protocols governing the linking of registers.  The concession framework will allow access management across multiple geographic registers.  Pure psuedonymized registers with appropriately detailed metadata, under the PIPE framework, will provide a clear framework for secure asynchronous linking.
+
 #### #9: Expand data quality and data documentation to all central registries
+
+Expand the [Metadata Management](#metadata-management) system, or harvesting of data to the [Metadata Repository](#metadata-repository), so that all central registers can be represented in EUTRO and other repositories.
+
 #### #10: Common protocols for validation studies
+
+Protocols for sharing validation studies across medical quality registers.  Leveraging concession and linking framework, along with PIPE, should provide a simplified mechanism to initiate validation studies.

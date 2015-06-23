@@ -25,9 +25,8 @@
 | External Data Dlivery | Adhere to Data Security & Linkage protocols | ?, Internal Integration | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | Archive (Norstore, NSD, EUTRO) | Adhere to Data Security protocols | Input formats & Data | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 | NIPH Data Delivery | Link register data | FHI Internal, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| External Data Delivery | Link register data | FHI Internal, Internal Integration, Service |
-[1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
-| External Metadata Manager | Create variable & data quality documentation | ?, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| External Data Delivery | Link register data | FHI Internal, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
+| External Metadata Manager | Create variable & data quality documentation | ?, Internal Integration, Service | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries) |
 | Clinician | Carry out validation study | Service (?) | [1](#1-improved-data-quality-and-data-documentation-reports-for-niph-registries)  |
 
 

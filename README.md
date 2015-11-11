@@ -23,15 +23,15 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 | Deliverable  | Resource  | Status |
 | :------------ | ---------------:| :-----:|
 | 1. Improved data quality and data documentation reports for NIPH registries |  | dev & planning |
-| 2. Code harmonization: ICD6-10 and registry | | analysis |
+| 2. Code harmonization: ICD6-10 and registry | | analysis & postponed |
 | 3. Registry metadata available to researchers | [web](http://hrrno.github.io/metadata/), [repo](https://github.com/hrrno/metadata/) | dev |
 | 4. Secure remote logon  | | analysis |
 | 5. Online research file ordering system | | dev |
 | 6. Online data analysis for researchers pilot | | analysis |
 | 7. Data security protocols for NIPH registries | |  dev |
 | 8. Data registry linkage protocols | | analysis |
-| 9. Expand data quality and data documentation to all central registries | | planning  |
-| 10. Common protocols for validation studies | | planning |
+| 9. Expand data quality and data documentation to all central registries | | dev & analysis  |
+| 10. Common protocols for validation studies | | postponed |
 
 
 #### 1: Improved data quality and data documentation reports
@@ -52,6 +52,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
   * Ole-Henrik has identified a hospital in Norway that operated under an older coding system for several years
   * Through proper selection and population control it should be possible to calculate a probability of any given code mapping to another
   * This may require a dedicated 'project' with qualified personell...
+ * Code harmonisation has been postponed until the metadata framework is more mature
 
 
 #### 3: Registry MetaData available
@@ -75,6 +76,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 * OpenID and Shibboleth are mature and in widespread use
 * International federated logons are in the goals of the Tryggve project
 * Our computing partners will likely dictate our logon selection
+* National infrastructure (ie TSD and/or LSP), will be used as a starting point
 
 
 #### 5: Online research file ordering system
@@ -82,6 +84,8 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 * An online prototype interface for MFR has been constructed and is undergoing refinement
 * Metadata from the registers will be used to generate data access requests
 * Tooling will be constructed so to maximize ease of integration in partner projects
+* HRR Metadata with integrated sensitivity and publishing information is available on the web
+* Bsaic variable browser available
 
 
 #### 6: Online data analysis for researchers pilot
@@ -107,12 +111,24 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 * Analysis of the architecture and solutions of industry leaders has been carried out 
 * Tooling has been constructed to allow linkage across pseudonymized registers
-* A key interface has been defined in mMFR allowing unified identity operations on central regitries
+* A key interface has been defined in mMFR allowing unified identity operations on central registries
   * pseudonymized identities can be retroavticely applied to pre-existing registries
+ 
+
+ 
+#### 9: Expand data quality and data documentation to all central registries
+
+* Metadata document formats of registry teams have been assesed 
+* Tooling has been created to inject 'metadata' into (some of) those documents
+* Document consumption has begun, metadata systems being expanded to handle coding as well
+* DÅRs full metadata set has been consumed, coding incoming
+* NPRs document format should allow for injestion of all their registries at the same time
 
 
+#### 10: Common protocols for validation studies
 
-
+* Protocol development is either a purely 'fagelig' task, or something solved much easier as HRR matures
+* As such: pt 10 has been indefinitely postponed
 
 
 

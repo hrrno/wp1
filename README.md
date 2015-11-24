@@ -61,7 +61,8 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 * International standards for metadata publishing identified
   * Metadata (core): Dublin Core ([ISO 15836](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52142)), [Data Documentation Initiative DDI](http://www.ddialliance.org/)
   * Metadata (supplementary): [Norstore Metadata format](https://agora.uninett.no/documents/375288/1356920/Norstore+metadata+schema.pdf), Health Informatics Clinical Metadata (ISO 13119) if applicable
-  * Repository (core): Metadata Registry Standard ('MDR', [ISO 11179](http://en.wikipedia.org/wiki/ISO/IEC_11179)), [Data Catalog Interoperability](http://spec.dataportals.org/) 
+  * Repository (core): Metadata Registry Standard ('MDR', [ISO 11179](http://en.wikipedia.org/wiki/ISO/IEC_11179))
+  * Open Data: EU backed, DCAT based [Data Catalog Interoperability](http://spec.dataportals.org/) 
   * Repository/Catalog Interoperability (supplementary): Directory Interchange Format ('DIF' [ISO 19115](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=53798)), [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), and _possibly_ [METS](http://www.loc.gov/standards/mets/METSPrimerRevised.pdf) and/or [PREMIS](http://www.loc.gov/standards/premis/)
 * [Norstore](https://www.norstore.no/services/archive) 's metadata format applied to the MFRs definition
 * Structural information used to generate [baseline creation scripts](https://github.com/hrrno/metadata/tree/master/registries/mfr/data/structure)

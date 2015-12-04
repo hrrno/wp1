@@ -63,7 +63,7 @@ The [HRR WP1 Issue Tracker](https://github.com/hrrno/wp1/issues) contains active
 
 
 * International standards for metadata publishing identified and conditionally approved:
-  * Metadata (core): Dublin Core ([ISO 15836](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52142)), [Data Documentation Initiative DDI](http://www.ddialliance.org/)
+  * Metadata (core): Dublin Core ([ISO 15836](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52142)), [Data Documentation Initiative (DDI-3.1)](http://www.ddialliance.org/)
   * Metadata (supplementary): [Norstore Metadata format](https://agora.uninett.no/documents/375288/1356920/Norstore+metadata+schema.pdf), [Generic Statistical Information Model (GSIM)](http://www1.unece.org/stat/platform/display/gsim/Generic+Statistical+Information+Model), Health Informatics Clinical Metadata (ISO 13119) if applicable
   * Repository (core): Metadata Registry Standard ('MDR', [ISO 11179](http://en.wikipedia.org/wiki/ISO/IEC_11179))
   * Open Data: EU backed, DCAT based [Data Catalog Interoperability](http://spec.dataportals.org/) 
